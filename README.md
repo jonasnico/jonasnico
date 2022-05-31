@@ -9,7 +9,7 @@ I’m currently studying for a Bachelors Degree in Applied Computer Science at O
 </p>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnico&theme=dark&hide_border=true" width = 300>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnico&theme=dark&hide_border=true" width = 200>
   </p>
 
 
