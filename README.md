@@ -1,5 +1,6 @@
 ## Hi 👋 I am Jonas! 
-I’m currently studying for a Bachelors Degree in Applied Computer Science at Oslo Metropolitan University 
+
+<iframe src="https://giphy.com/embed/l0MYII7vx3jZTG3Oo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-plants-desk-l0MYII7vx3jZTG3Oo">via GIPHY</a></p>
 
 
 ---
