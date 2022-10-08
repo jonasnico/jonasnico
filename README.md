@@ -1,6 +1,6 @@
 ## Hi 👋 I am Jonas! 
 
-I like code; and plants!
+<i>I like code; and plants!</i>
 
 
 <p align = "center">
