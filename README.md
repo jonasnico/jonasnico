@@ -12,6 +12,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnico&theme=dark&hide_border=true" width = 250>
 </p>
 
+---
+
 
 
 
