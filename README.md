@@ -4,7 +4,7 @@
 
 
 <p align = "center">
-<img src="plants.gif" width="240" height="240" style="border-radius:50%" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/computer-plants-desk-l0MYII7vx3jZTG3Oo"></a></p>
+<img src="plants.gif" height="auto" width="200" style="border-radius:50%" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/computer-plants-desk-l0MYII7vx3jZTG3Oo"></a></p>
 </p>
 
 ---
