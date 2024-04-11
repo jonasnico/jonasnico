@@ -3,6 +3,9 @@
 
 <p align="center"><img src="/metrics.terminal.svg" alt="Terminal" width="400"></p>
 
+<p align="center"><img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Terminal" width="400"></p>
+
+
 
 ---
 
