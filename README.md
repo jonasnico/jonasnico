@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=jonasnico&color=orange)
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+
+<p align="center"><img src="/metrics.terminal.svg" alt="Terminal" width="400"></p>
+
 
 ---
 
@@ -9,10 +11,11 @@
 </p>
 
 
----
+<!---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnico&theme=dark&hide_border=true" width = 250>
 </p>
+-->
 
 
 
