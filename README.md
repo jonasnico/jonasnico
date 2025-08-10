@@ -13,14 +13,7 @@
   <a href="https://giphy.com/gifs/computer-plants-desk-l0MYII7vx3jZTG3Oo"></a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnico&theme=dark&hide_border=true" width="250">
-</p>
-
-
-## Gotta catch em all
+## Gotta catch them stats ⚡️
 
 <p align="left">
   <img src="https://profile-card-ten-green.vercel.app/api/card?username=jonasnico&type=bug">
