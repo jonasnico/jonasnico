@@ -1,10 +1,11 @@
 <!-- Profile Views Badge -->
 ![](https://komarev.com/ghpvc/?username=jonasnico&color=orange)
 
-<!-- Terminal Metrics SVG -->
-<p align="left">
-  <img src="/metrics.terminal.svg" alt="Terminal Metrics" width="400">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasnico/jonasnico/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasnico/jonasnico/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/cyprieng/refs/heads/github-breakout/images/breakout-light.svg">
+</picture>
 
 ## I like to grow plants in my freetime 🌱 
 
