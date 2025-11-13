@@ -1,14 +1,5 @@
-## Hey! I'm Jonas 👋
+### Hai 🦈
 
-```json
-{
-  "job": "Fullstack developer",
-  "country": "Norway",
-  "city": "Oslo",
-  "stack": ["Typescript", "React", "Kotlin", "Ktor", "..."],
-  "interest": ["Tech", "Gardening", "Travelling", "Music", "..."]
-}
-```
 --- 
 
 <picture>
